@@ -3,9 +3,13 @@
 Simple Math Python Program (To Calculating Block Volume)
 
 # How To Install?
-## Linux
+## Linux Ubuntu
+- sudo apt install python2
 - sudo apt-get install git
 - git clone https://github.com/liudev/pycalc
+- cd pycalc
+- python2 math.py
 ## Termux
-- apt install git
+- pkg install git
 - git clone https://github.com/liudev/pycalc
+- pkg install python2
