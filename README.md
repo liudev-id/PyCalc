@@ -3,7 +3,7 @@
 Simple Math Python Program (To Calculating Block Volume)
 
 # How To Install?
-## Linux Ubuntu
+## Linux
 - sudo apt install python2
 - sudo apt-get install git
 - git clone https://github.com/liudev/pycalc
