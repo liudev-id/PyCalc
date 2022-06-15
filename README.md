@@ -1,7 +1,7 @@
 # PyCalc
 <img src="Pic.jpg"/>
 Simple Math Python Program (To Calculating Block Volume)<br>
-For Those of You who Are Lazy to Calculate The Volume of Mathematics.
+For Those of You who Are Lazy to Calculate The Volume of Mathematics:D.<br>
 This Tool May Will Help you To Calculate the Volume of The Block.
 This Tool is Very Easy to use.<br>
 
@@ -9,13 +9,13 @@ This Tool is Very Easy to use.<br>
 ### Linux
 - ```sudo apt install python2```
 - ```sudo apt-get install git```
-- ```git clone https://github.com/liudev/PyCalc```
+- ```git clone https://github.com/liudev-id/PyCalc```
 - ```cd PyCalc```
 - ```python2 math.py```
 ### Termux
 - ```pkg install python2```
 - ```pkg install git```
-- ```git clone https://github.com/liudev/PyCalc```
+- ```git clone https://github.com/liudev-id/PyCalc```
 - ```cd PyCalc```
 - ```python2 math.py```
 
