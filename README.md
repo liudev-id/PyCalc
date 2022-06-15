@@ -20,3 +20,6 @@ This Tool is Very Easy to use.<br>
 - ```python2 math.py```
 
 <i> Now You Can Run The Tools Anywhere at Any Time by Running ```python2 math.py```</i>
+
+[Folow My Github<br>
+And Give Me A Star:)](https://github.com/liudev-id)<br>
